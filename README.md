@@ -14,21 +14,21 @@ La práctica se divide en dos grandes bloques:
 
 1. Escena 1 – Guerreros + Objetivos (Shields)
 
-- Añadir sonido al recoger los objetivos.
+    - Añadir sonido al recoger los objetivos.
 
-- Mantener la lógica de movimiento y recolección ya existente.
+    - Mantener la lógica de movimiento y recolección ya existente.
 
 2. Escena 2 – Micrófono y Reproducción en Tiempo Real
 
-- Crear una nueva escena con altavoces/pantalla que reproduzcan lo captado por el micrófono.
+    - Crear una nueva escena con altavoces/pantalla que reproduzcan lo captado por el micrófono.
 
-- Control por teclado (R para grabar/detener).
+    - Control por teclado (R para grabar/detener).
 
 3. Escena 3 – Cámara Web (TV)
 
-- Mostrar la webcam en una pantalla de la escena.
+    - Mostrar la webcam en una pantalla de la escena.
 
-- Control por teclado (S para arrancar, P para parar, X para capturar una imagen).
+    - Control por teclado (S para arrancar, P para parar, X para capturar una imagen).
 
 - Guardar capturas como PNG.
 
