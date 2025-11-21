@@ -383,3 +383,5 @@ Al finalizar todos los pasos:
   - Integración audiovisual completa con la escena
 
 A continuación se muestra un vídeo de la ejecución de la práctica:
+
+![Video](/Microfono_y_Camara_prueba_Unity.mp4)
